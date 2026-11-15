@@ -1,0 +1,36 @@
+{
+  "slug": "20261115T025830Z-muscle-sunset-ae06a2",
+  "created_at": "2026-11-15T02:58:30+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "muscle-sunset",
+    "name": "Muscle Car Sunset"
+  },
+  "status": "dry-run",
+  "art_style": "photo",
+  "art_prompt": "a 1969 American muscle car seen from the rear three-quarter, wide rear tires, long shadows, parked on an empty desert highway at sunset. ultra-realistic automotive photograph, full-frame camera, 50mm lens at f/4, wide three-quarter view taken from slightly below the beltline, the entire car from front bumper to rear bumper fully inside the frame with nothing cropped or cut off, all four wheels and the complete roofline visible, generous space around the vehicle, glossy paint with true environment reflections, realistic chrome, rubber and brake dust, dramatic natural light, deep focus across the whole car, fine surface detail, photographic grain, no illustration, no print texture, no flat colour. vertical composition with open sky above and clear ground below, the car sitting in the middle third. Mood: nostalgic, warm, cinematic. No text, no lettering, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T025830Z-muscle-sunset-ae06a2.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Muscle Car Sunset poster - retro art for automotive enthusiasts",
+  "description": "Capture the essence of 1969 American muscle cars with this retro screen-print poster. \n- Features a classic muscle car on an empty desert highway at sunset. \n- Evokes a warm, nostalgic mood perfect for any garage or man cave. \n- Ideal for gearheads and car lovers looking to enhance their space.",
+  "alt_text": "A retro screen-print poster of a 1969 muscle car on a desert highway at sunset.",
+  "tags": [
+    "muscle car",
+    "sunset",
+    "american muscle art",
+    "car silhouette",
+    "retro poster",
+    "automotive art",
+    "car wall decor",
+    "sunset artwork",
+    "vintage style",
+    "garage decor",
+    "retro automotive",
+    "car enthusiast",
+    "screen print"
+  ]
+}

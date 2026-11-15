@@ -1,0 +1,36 @@
+{
+  "slug": "20261115T025821Z-supercar-dusk-0cb0af",
+  "created_at": "2026-11-15T02:58:21+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "supercar-dusk",
+    "name": "Supercar at Dusk"
+  },
+  "status": "dry-run",
+  "art_style": "photo",
+  "art_prompt": "a modern mid-engine supercar in deep metallic blue parked on a rooftop terrace at dusk, city skyline behind it, LED tail lights lit. ultra-realistic automotive photograph, full-frame camera, 50mm lens at f/4, wide three-quarter view taken from slightly below the beltline, the entire car from front bumper to rear bumper fully inside the frame with nothing cropped or cut off, all four wheels and the complete roofline visible, generous space around the vehicle, glossy paint with true environment reflections, realistic chrome, rubber and brake dust, dramatic natural light, deep focus across the whole car, fine surface detail, photographic grain, no illustration, no print texture, no flat colour. vertical composition with open sky above and clear ground below, the car sitting in the middle third. Mood: premium, still, atmospheric. No text, no lettering, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T025821Z-supercar-dusk-0cb0af.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Supercar at Dusk: Striking Midnight Blue Illustration",
+  "description": "This glossy illustration captures a modern mid-engine supercar in deep metallic blue, parked on a rooftop terrace against a city skyline at dusk. \n- Perfect for adding a premium touch to your garage or man cave.\n- An atmospheric piece for any gearhead looking to enhance their space.\n- Ideal for automotive enthusiasts who appreciate high-contrast artistry.",
+  "alt_text": "Illustration of a metallic blue supercar parked at dusk with city skyline in the background.",
+  "tags": [
+    "supercar",
+    "mid engine",
+    "city dusk",
+    "sports car",
+    "supercar art",
+    "wall art",
+    "automotive",
+    "car poster",
+    "dusk",
+    "city skyline",
+    "metallic blue",
+    "garage decor",
+    "workshop art"
+  ]
+}

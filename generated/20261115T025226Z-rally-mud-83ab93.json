@@ -1,0 +1,47 @@
+{
+  "slug": "20261115T025226Z-rally-mud-83ab93",
+  "created_at": "2026-11-15T02:52:26+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "rally-mud",
+    "name": "Rally Mud"
+  },
+  "status": "published",
+  "art_prompt": "a rally car airborne over a forest crest, mud spraying from all four wheels, co-driver silhouetted in the cabin, pines behind. retro rally poster, grainy print texture, dynamic diagonal composition. vertical wall-art print, centered subject, clean uncluttered background, generous margins, no frame, no mockup. Colour palette: forest green, mud brown, pale sky. Mood: wild, mechanical, adventurous. No text, no lettering, no signature, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T025226Z-rally-mud-83ab93.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Rally Mud Poster - A Dynamic Airborne Adventure",
+  "description": "Capture the thrill of rally racing with this striking poster featuring a rally car airborne over a forest crest. \n- Evokes a wild and adventurous spirit, perfect for any gearhead. \n- Ideal for your garage, workshop, man cave, or office. \n- A great gift for motorsport enthusiasts who appreciate retro design.",
+  "alt_text": "A rally car airborne with mud spraying, co-driver visible, against a forest backdrop.",
+  "tags": [
+    "rally",
+    "rally car",
+    "motorsport",
+    "car art print",
+    "mud racing",
+    "automotive art",
+    "vintage poster",
+    "car decor",
+    "race poster",
+    "gearhead gifts",
+    "workshop art",
+    "mechanical theme",
+    "off-road"
+  ],
+  "printify_upload": {
+    "image_id": "6af91e75d2616a30e4361335",
+    "preview_url": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/29062149/5c66170c-2c70-439b-aea9-b9e6848feee8"
+  },
+  "printify_product": {
+    "id": "6af91e76948a470d5206e98c",
+    "blueprint_id": 282,
+    "print_provider_id": 99,
+    "variants": 3,
+    "price_cents": 2999,
+    "published": true
+  }
+}

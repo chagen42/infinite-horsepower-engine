@@ -1,0 +1,36 @@
+{
+  "slug": "20261115T025523Z-supercar-dusk-ad45ba",
+  "created_at": "2026-11-15T02:55:23+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "supercar-dusk",
+    "name": "Supercar at Dusk"
+  },
+  "status": "dry-run",
+  "art_style": "photo",
+  "art_prompt": "a modern mid-engine supercar in deep metallic blue parked on a rooftop terrace at dusk, city skyline behind it, LED tail lights lit. ultra-realistic automotive photograph, full-frame camera, 35mm lens at f/2, low three-quarter camera angle, glossy paint with true environment reflections, realistic chrome, rubber and brake dust, dramatic natural light, shallow depth of field, fine surface detail, photographic grain, no illustration, no print texture, no flat colour. vertical crop, the whole car in frame with breathing room above and below. Mood: premium, still, atmospheric. No text, no lettering, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T025523Z-supercar-dusk-ad45ba.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Supercar at Dusk - Mid-Engine Masterpiece on a Rooftop",
+  "description": "This striking artwork features a modern mid-engine supercar in deep metallic blue parked against a city skyline at dusk. \n- Atmospheric mood for any space, ideal for your garage or man cave.\n- Perfect for automotive enthusiasts who appreciate high-quality design.\n- A glossy finish captures the reflective paint and LED lights beautifully.",
+  "alt_text": "Artwork depicting a blue supercar parked on a rooftop at dusk with city lights.",
+  "tags": [
+    "supercar",
+    "mid engine",
+    "city dusk",
+    "sports car",
+    "supercar art",
+    "automotive art",
+    "car poster",
+    "mid-engine",
+    "metallic blue",
+    "garage decor",
+    "workshop",
+    "city skyline",
+    "reflective paint"
+  ]
+}

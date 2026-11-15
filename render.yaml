@@ -1,0 +1,45 @@
+# Render blueprint for the Infinite Horsepower POD engine.
+#
+# This is a Cron Job because bot.py is a one-shot generator: it runs,
+# publishes a product, and exits. Deploy with Render Dashboard ->
+# New -> Blueprint, then pick this repo.
+#
+# Secrets use `sync: false`, so Render prompts for them in the dashboard
+# instead of storing them in git.
+#
+# If your existing service is a Web Service with the same job to do, either
+# switch that service to a Cron Job in Settings, or delete it and let this
+# blueprint create the cron job.
+
+services:
+  - type: cron
+    name: infinite-horsepower-engine-cron
+    runtime: python
+    plan: starter
+    region: oregon
+    # Every day at 14:00 UTC. Render schedules are always UTC.
+    schedule: "0 14 * * *"
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: python bot.py --count 1
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini
+      - key: REPLICATE_API_TOKEN
+        sync: false
+      - key: REPLICATE_MODEL
+        value: black-forest-labs/flux-schnell
+      - key: PRINTIFY_API_TOKEN
+        sync: false
+      - key: PRINTIFY_SHOP_ID
+        sync: false
+      - key: PRINTIFY_PRODUCT_TYPE
+        value: poster
+      - key: PRINTIFY_PUBLISH
+        value: "true"
+      - key: OUTPUT_DIR
+        value: ./generated

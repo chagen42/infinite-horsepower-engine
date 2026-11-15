@@ -1,0 +1,49 @@
+{
+  "slug": "20261115T024419Z-jdm-night-f5cd5c",
+  "created_at": "2026-11-15T02:44:19+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "jdm-night",
+    "name": "JDM Night Run"
+  },
+  "status": "published",
+  "art_prompt": "a 1990s Japanese coupe on a rain-slicked Tokyo expressway at night, neon signs reflected in the wet asphalt, motion blur on the wheels. cel-shaded illustration, high contrast neon glow, crisp line work. vertical wall-art print, centered subject, clean uncluttered background, generous margins, no frame, no mockup. Colour palette: electric cyan, magenta, near-black. Mood: fast, moody, nocturnal. No text, no lettering, no signature, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T024419Z-jdm-night-f5cd5c.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "JDM Night Run poster of a classic Japanese coupe",
+  "description": "Bring the thrill of the Tokyo streets to your space with this JDM Night Run poster. \n- Features a 1990s Japanese coupe racing on a rain-slicked expressway. \n- The moody, nocturnal vibe makes it ideal for a garage, workshop, or man cave. \n- Perfect for car enthusiasts who appreciate high-quality automotive art.",
+  "alt_text": "Illustration of a 1990s Japanese coupe on a rainy Tokyo expressway at night.",
+  "tags": [
+    "jdm",
+    "night drive",
+    "tokyo",
+    "neon car art",
+    "car art",
+    "neon lights",
+    "japanese coupe",
+    "automotive wall art",
+    "night run",
+    "tokyo expressway",
+    "art print",
+    "car enthusiast",
+    "90s cars"
+  ],
+  "printify_upload": {
+    "image_id": "6af91c8d5f290796802b7bf9",
+    "preview_url": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/29062149/12764fc6-ecfd-4031-98c2-c5162eca01b7"
+  },
+  "printify_product": {
+    "id": "6af91c8fc745d035040ea4f4",
+    "blueprint_id": 282,
+    "print_provider_id": 99,
+    "price_cents": 2999,
+    "published": true,
+    "shop_id": 29757406,
+    "enabled_variants": 3,
+    "visible": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "20261115T025533Z-muscle-sunset-a2bd78",
+  "created_at": "2026-11-15T02:55:33+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "muscle-sunset",
+    "name": "Muscle Car Sunset"
+  },
+  "status": "dry-run",
+  "art_style": "photo",
+  "art_prompt": "a 1969 American muscle car seen from the rear three-quarter, wide rear tires, long shadows, parked on an empty desert highway at sunset. ultra-realistic automotive photograph, full-frame camera, 35mm lens at f/2, low three-quarter camera angle, glossy paint with true environment reflections, realistic chrome, rubber and brake dust, dramatic natural light, shallow depth of field, fine surface detail, photographic grain, no illustration, no print texture, no flat colour. vertical crop, the whole car in frame with breathing room above and below. Mood: nostalgic, warm, cinematic. No text, no lettering, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T025533Z-muscle-sunset-a2bd78.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Muscle Car Sunset poster with nostalgic desert vibes",
+  "description": "Capture the essence of the American muscle car era with this retro screen-print poster featuring a 1969 classic. \n- Evokes a warm, nostalgic mood with its sunset backdrop.\n- Perfect for your garage, workshop, man cave, or office.\n- Great for gearheads and car enthusiasts who appreciate vintage aesthetics.",
+  "alt_text": "A retro poster featuring a 1969 muscle car on a desert highway at sunset.",
+  "tags": [
+    "muscle car",
+    "sunset",
+    "american muscle art",
+    "car silhouette",
+    "vintage art",
+    "retro poster",
+    "car wall art",
+    "automotive decor",
+    "desert sunset",
+    "screen print",
+    "halftone",
+    "car enthusiast",
+    "garage decor"
+  ]
+}

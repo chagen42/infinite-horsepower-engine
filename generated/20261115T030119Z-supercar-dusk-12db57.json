@@ -1,0 +1,48 @@
+{
+  "slug": "20261115T030119Z-supercar-dusk-12db57",
+  "created_at": "2026-11-15T03:01:19+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "supercar-dusk",
+    "name": "Supercar at Dusk"
+  },
+  "status": "published",
+  "art_style": "photo",
+  "art_prompt": "a modern mid-engine supercar in deep metallic blue parked on a rooftop terrace at dusk, city skyline behind it, LED tail lights lit. ultra-realistic automotive photograph, full-frame camera, 50mm lens at f/4, wide three-quarter view taken from slightly below the beltline, the entire car from front bumper to rear bumper fully inside the frame with nothing cropped or cut off, all four wheels and the complete roofline visible, generous space around the vehicle, glossy paint with true environment reflections, realistic chrome, rubber and brake dust, dramatic natural light, deep focus across the whole car, fine surface detail, photographic grain, no illustration, no print texture, no flat colour. vertical composition with open sky above and clear ground below, the car sitting in the middle third. Mood: premium, still, atmospheric. No text, no lettering, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T030119Z-supercar-dusk-12db57.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "Supercar at Dusk: Modern Mid-Engine Marvel on Rooftop",
+  "description": "Capture the essence of luxury with this glossy automotive illustration. \n- Features a deep metallic blue supercar parked against a city skyline. \n- Atmospheric mood perfect for your garage, workshop, or man cave. \n- Ideal for gearheads and automotive enthusiasts looking to elevate their space.",
+  "alt_text": "A mid-engine supercar in deep metallic blue parked at dusk with a city skyline in the background.",
+  "tags": [
+    "supercar",
+    "mid engine",
+    "city dusk",
+    "sports car",
+    "supercar art",
+    "automotive art",
+    "car poster",
+    "metallic blue",
+    "rooftop",
+    "city skyline",
+    "high contrast",
+    "glossy print",
+    "car enthusiast"
+  ],
+  "printify_upload": {
+    "image_id": "6af9208913a75f1f5eda281a",
+    "preview_url": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/29062149/20bd744c-011e-43c6-8cd8-b87cde59f2d8"
+  },
+  "printify_product": {
+    "id": "6af9208cb61526d23d05c5e4",
+    "blueprint_id": 282,
+    "print_provider_id": 99,
+    "variants": 3,
+    "price_cents": 2999,
+    "published": true
+  }
+}

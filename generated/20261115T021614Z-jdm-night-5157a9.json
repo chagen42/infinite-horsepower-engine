@@ -1,0 +1,35 @@
+{
+  "slug": "20261115T021614Z-jdm-night-5157a9",
+  "created_at": "2026-11-15T02:16:14+00:00",
+  "product_type": "poster",
+  "concept": {
+    "id": "jdm-night",
+    "name": "JDM Night Run"
+  },
+  "status": "dry-run",
+  "art_prompt": "a 1990s Japanese coupe on a rain-slicked Tokyo expressway at night, neon signs reflected in the wet asphalt, motion blur on the wheels. cel-shaded illustration, high contrast neon glow, crisp line work. vertical wall-art print, centered subject, clean uncluttered background, generous margins, no frame, no mockup. Colour palette: electric cyan, magenta, near-black. Mood: fast, moody, nocturnal. No text, no lettering, no signature, no watermark, no border.",
+  "artwork": {
+    "path": "generated\\20261115T021614Z-jdm-night-5157a9.png",
+    "source": "replicate",
+    "width": 832,
+    "height": 1216
+  },
+  "title": "JDM Night Run: A Neon Tribute to Japanese Performance",
+  "description": "Capture the essence of 1990s car culture with this striking illustration. \n- Features a Japanese coupe on a rain-slicked Tokyo expressway. \n- Perfect for your garage, shop, or man cave, this art embodies speed and mood. \n- Ideal for gearheads and fans of JDM style.",
+  "alt_text": "A cel-shaded illustration of a 1990s Japanese coupe on a rainy Tokyo expressway at night.",
+  "tags": [
+    "jdm",
+    "night drive",
+    "tokyo",
+    "neon car art",
+    "automotive art",
+    "jdm poster",
+    "car decor",
+    "neon artwork",
+    "japanese coupe",
+    "night scene",
+    "rainy expressway",
+    "cel-shaded",
+    "high contrast"
+  ]
+}
